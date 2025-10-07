@@ -6,7 +6,7 @@ In early 2024, Duolingo’s stock rallied to $441 after the launch of Duolingo M
 
 I wanted to test that narrative against real user behavior.
 
-Using data from 10,000 Reddit posts and comments, I built an ETL pipeline to extract, clean, and analyze discussions mentioning “Duolingo Max” and its AI mascot “Lily.” I ran sentiment analysis to gauge how users felt about the new feature and developed a Willingness-to-Pay (WTP) score to measure whether users were willing to pay the $20/month subscription price.
+Using data from 10,000 Reddit posts and comments, I built an ETL pipeline to extract, clean, and analyze discussions mentioning “Duolingo Max” and its AI mascot “Lily.” I ran sentiment analysis to gauge how users felt about the new feature and developed a Willingness-to-Pay (WTP) score to measure whether users were willing to pay the $30/month subscription price.
 
 The results told a nuanced story:
 
